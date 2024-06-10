@@ -1,7 +1,7 @@
 .home-container {
     width: 100%;
     color: #fff;
-    background-image: url(./background-img.jpg);
+    background-image: url(../../../assets/background-img.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
