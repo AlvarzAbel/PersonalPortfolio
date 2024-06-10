@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import portafolio from '../../assets/portafolio-img.png.png'
-import infinityImg from '../../assets/infinity-img.png'
+import jorbandDashboard from '../../assets/jorbanddashboard-img.png'
 
 const proyects = [
   {
@@ -14,7 +14,7 @@ const proyects = [
     name: "Jorband Dashboard",
     urlDemo: "https://jorbanddashboardapp.uw.r.appspot.com/",
     urlSource: "https://github.com/AlvarzAbel/JorbanDashboard",
-    img: infinityImg,
+    img: jorbandDashboard,
     description: "Jorband Dashboard is a project that is inspired in a real project that i worked for a Musical Band, and its main porpuse is help to this band with the records of the songs they hade played and with this not repit the same music every time they play. During this application I apply differente technologies like: Frontend React JS, components Library like Primefaces, Axios, Hooks, CSS, and for Backend I used Node JS, Express, MongoDB and others. If you want to check the demo, use the credentials that I leave in the Login page when you make on Clink on Demo."
   },
 
